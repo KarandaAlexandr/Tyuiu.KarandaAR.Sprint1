@@ -1,5 +1,4 @@
 ﻿using tyuiu.cources.programming.interfaces.Sprint1;
-using static System.Net.Mime.MediaTypeNames;
 
 namespace Tyuiu.KarandaAR.Sprint1.Task6.V3.Lib
 {
