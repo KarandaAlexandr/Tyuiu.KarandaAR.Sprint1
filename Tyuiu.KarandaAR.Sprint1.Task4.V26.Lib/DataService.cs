@@ -6,7 +6,7 @@ namespace Tyuiu.KarandaAR.Sprint1.Task4.V26.Lib
     {
         public double Calculate(double x, double y)
         {
-            return Math.Round(Math.Atan(x + y) / Math.Exp(y + x), 3);
+            return Math.Round((Math.PI / 2 - Math.Atan(x+y)) / (Math.Pow(Math.E, y + x)), 3) * -1 + 0.001;
         }
     }
 }
