@@ -37,7 +37,7 @@ namespace Tyuiu.KarandaAR.Sprint1.Task4.V26
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
-            Console.WriteLine("Расстояние между автомобилями:" + ds.Calculate(x, y));
+            Console.WriteLine(ds.Calculate(x, y));
         }
     }
 }
