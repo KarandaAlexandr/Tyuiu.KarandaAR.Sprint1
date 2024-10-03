@@ -1,4 +1,4 @@
-﻿using Tyuiu.KarandaAR.Sprint1.Task6.Lib;
+﻿using Tyuiu.KarandaAR.Sprint1.Task6.V3.Lib;
 
 namespace Tyuiu.KarandaAR.Sprint1.Task6.V3
 {
